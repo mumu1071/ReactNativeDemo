@@ -1,0 +1,18 @@
+{
+    "defaultSeverity": "error",
+    "rules": {
+        "space-before-function-paren": false,
+        "jsx-no-lambda": false,
+        "semicolon": [
+            false,
+            "always"
+        ],
+        "one-line": [
+            false,
+            "check-open-brace",
+            "check-catch",
+            "check-else",
+            "check-whitespace"
+        ]
+    }
+}
